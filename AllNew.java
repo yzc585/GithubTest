@@ -33,7 +33,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author zhichao
+ * @author zhichao 20140914
  */
 public class AllNew extends JFrame {
 
